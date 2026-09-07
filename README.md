@@ -1,8 +1,8 @@
-﻿# pass-spray
+# pass-spray
 
 > Red team security tool — authorized use only.
 
-`ash
+```bash
 python pass_spray.py --help
 ```
 
