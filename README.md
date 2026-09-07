@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.svg" alt="pass-spray" width="800">
+</div>
+
 # pass-spray
 
 > Red team security tool — authorized use only.
